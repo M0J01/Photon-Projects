@@ -349,10 +349,11 @@ UsedLibraryUrn="urn:adsk.eagle:library:176"
 UsedLibraryUrn="urn:adsk.eagle:library:177"
 UsedLibrary="C:/EAGLE 8.3.2/lbr/JS1-5V.lbr"
 UsedLibrary="C:/EAGLE 8.3.2/lbr/Photon-Power-Relay.lbr"
+UsedLibrary="C:/EAGLE 8.3.2/lbr/Spark.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="-8 -31 1191 608"
+Loc="677 122 1876 761"
 State=2
 Number=0
 
